@@ -568,7 +568,7 @@
 
     - Accueil -> ==**remplir** une fiche d'informations== ;
     - [Présentation de la matière](http://si.lycee.ecmorlaix.fr/){target=_blank} -> ==**préciser** le rôle des ingénieurs dans la société== ;
-    - **Initier** [un classeur numérique pour la SI sur GitHub]((https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/)){target=_blank} -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
+    - **Initier** [un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
 
 === "TRAVAIL À FAIRE"
 
