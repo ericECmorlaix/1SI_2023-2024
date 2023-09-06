@@ -537,8 +537,6 @@
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](./github) -> ==**Reprendre** depuis un des PC du labo de SI via GitPod dans l'environnement de Visual Studio Code et en utilisant des notebook jupyter== ;
-
     - Cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​} -> ==**découvrir** le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){target=_blank} ;==  
     [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } 
 
@@ -549,19 +547,23 @@
 
 *** 
 
+
+*** 
+-->
+
 ## Le 07/09 : (2h)
 
 === "CONTENU DE SÉANCE"
 
-    - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](./github) -> ==**Se questionner** : dépôt public ou privé, poids d'un mail avec PJ, ... ?== ;   
+    - Correction du T.A.F. -> ==**Se questionner** : dépôt public ou privé, poids d'un mail avec PJ, ... ?==
 
-
+    - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==**Reprendre** depuis un des PC du labo de SI dans l'environnement de Visual Studio Code via Codespaces et en utilisant des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank}== ; 
+    
 === "TRAVAIL À FAIRE"
 
-    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](./github) depuis la tablette iPad via GitPod dans l'environnement de Visual Studio Code ;
+    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](./github) depuis votre iPad via l'environnement VSC de Codespaces ;
 
-*** 
--->
+***
 ## Le 06/09 (1h)
 
 === "CONTENU DE SÉANCE"
