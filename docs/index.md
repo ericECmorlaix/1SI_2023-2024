@@ -498,21 +498,21 @@
 
 
 ***
-## Du 21 au 23/09 : (2h + 2x1h)
+## Du 21 au 27/09 : (2h + 2x1h)
 
 === "CONTENU DE SÉANCE"
 
     - Correction du travail demandé... ;
-    - Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/ChaineInformation-Numeration.ipynb){target="_blank"} ->==**Faire** les exercices de conversion...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/CI/ChaineInformation-Numeration.ipynb){ .md-button .md-button--primary }
+    - Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/ChaineInformation-Numeration.ipynb){target="_blank"} ->==**Faire** les exercices de conversion...== ;
+    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2023-2024/CI/ChaineInformation-Numeration.ipynb){ .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
     
     - **Finir** les exercices de conversion ;
-    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le mercredi 28/09_**
-
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le jeudi 28/09_**
+-->
 ***
-## Les 14 et 15/09 : (2h + 1h)
+## Les 15 et 20/09 : (1h x 2)
 
 === "CONTENU DE SÉANCE"
 
@@ -533,10 +533,8 @@
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](./notebook)
 
 
-*** 
--->
 ***
-## Le 13/09 : (1h)
+## Les 13 et 14/09 : (1h + 2h)
 
 === "CONTENU DE SÉANCE"
 
