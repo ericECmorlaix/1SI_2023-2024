@@ -495,7 +495,7 @@
     
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} et le **transmettre** par [mail].
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
-
+-->
 
 ***
 ## Du 21 au 27/09 : (2h + 2x1h)
@@ -510,7 +510,7 @@
     
     - **Finir** les exercices de conversion ;
     - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le jeudi 28/09_**
--->
+
 ***
 ## Les 15 et 20/09 : (1h x 2)
 
