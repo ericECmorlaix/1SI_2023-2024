@@ -504,9 +504,9 @@
     - Evaluation en analyse fonctionnelle SYSML + numération et codage de l'information ;
 
     - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `fd48mmy5` fourni​​​ pour débuter le **Parcours_1** ;
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `mthm6bpc` fourni​​​ pour débuter le **Parcours_1** ;
         - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
-        - ==**notez, transmettez par [mail] et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
+        - ==**notez, transmettez par [mail] et conservez** votre code personnel pour retourner dans ce parcours d'une fois sur l'autre== ;
 
 === "TRAVAIL À FAIRE"
 
