@@ -512,7 +512,7 @@
 
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
     
-    - **Télécharger** puis **compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+    - **Télécharger** puis **compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
 ***
 ## Les 22 et 27/09 : (2x1h)
@@ -563,7 +563,7 @@
 
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
     
-    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](./notebook)
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
 
 ***
@@ -578,7 +578,7 @@
 === "TRAVAIL À FAIRE"
 
     - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2023-2024/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
-    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
+    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
 
 ***
 ## Les 07 et 08/09 : (2h + 1h)
@@ -587,11 +587,11 @@
 
     - Correction du T.A.F. -> ==**Se questionner** : dépôt public ou privé, poids d'un mail avec PJ, ... ?==
 
-    - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==**Reprendre** depuis un des PC du labo de SI dans l'environnement de Visual Studio Code via Codespaces et en utilisant des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank}== ; 
+    - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** depuis un des PC du labo de SI dans l'environnement de Visual Studio Code via Codespaces et en utilisant des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}== ; 
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](./github) depuis votre iPad via l'environnement VSC de Codespaces ;
+    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/) depuis votre iPad via l'environnement VSC de Codespaces ;
 
 ***
 ## Le 06/09 (1h)
@@ -600,7 +600,7 @@
 
     - Accueil -> ==**remplir** une fiche d'informations== ;
     - [Présentation de la matière](http://si.lycee.ecmorlaix.fr/){target=_blank} -> ==**préciser** le rôle des ingénieurs dans la société== ;
-    - **Initier** [un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
+    - **Initier** [un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
 
 === "TRAVAIL À FAIRE"
 
