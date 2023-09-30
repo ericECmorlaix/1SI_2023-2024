@@ -14,6 +14,7 @@
 
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+[notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
 
 ***
 <!-- 
@@ -554,7 +555,7 @@
 
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
     
-    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter] ;
 
 
 === "TRAVAIL À FAIRE"
@@ -563,7 +564,7 @@
 
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
     
-    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter] ;
 
 
 ***
@@ -587,7 +588,7 @@
 
     - Correction du T.A.F. -> ==**Se questionner** : dépôt public ou privé, poids d'un mail avec PJ, ... ?==
 
-    - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** depuis un des PC du labo de SI dans l'environnement de Visual Studio Code via Codespaces et en utilisant des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}== ; 
+    - **Poursuivre** la mise en place d'[un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** depuis un des PC du labo de SI dans l'environnement de Visual Studio Code via Codespaces et en utilisant des [notebook jupyter]== ; 
     
 === "TRAVAIL À FAIRE"
 
