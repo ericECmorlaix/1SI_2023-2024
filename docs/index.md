@@ -554,7 +554,7 @@
 
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
     
-    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](./notebook)
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
 
 
 === "TRAVAIL À FAIRE"
@@ -591,7 +591,7 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/) depuis votre iPad via l'environnement VSC de Codespaces ;
+    - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} depuis votre iPad via l'environnement VSC de Codespaces ;
 
 ***
 ## Le 06/09 (1h)
