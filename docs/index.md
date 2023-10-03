@@ -497,6 +497,20 @@
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
 -->
 
+***
+## Le 04/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+    
+    - **Télécharger** puis **compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+
+***
 ## Les 28 et 29/09
 
 === "CONTENU DE SÉANCE"
@@ -527,8 +541,6 @@
     
     - **Finir** les exercices de conversion ;
     - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le jeudi 28/09_**
-
-
 
 ***
 ## Le 21/09 : (2h)
