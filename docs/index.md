@@ -483,19 +483,17 @@
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
 
 ***
-## Le 28/09 : (2h)
+## Le 05/10 : (2h)
 
 === "CONTENU DE SÉANCE"
 
-    - Evaluation en analyse fonctionnelle SYSML + numération et codage de l'information ;
-
-    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary }
+    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
+    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
     
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} et le **transmettre** par [mail].
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} et le **transmettre** par [mail].
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
 -->
 
 ***
