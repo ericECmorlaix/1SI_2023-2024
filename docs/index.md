@@ -483,6 +483,10 @@
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} et le **transmettre** par [mail] pour le 06/10.
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
 
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+    
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et **transmettre** par [mail] un lien pointant vers votre document... [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+
 
 ***
 ## Le 04/10
