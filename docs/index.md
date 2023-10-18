@@ -410,15 +410,7 @@
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
 
 ***
-## Les 13, 14/10 : (1h x 2)
 
-=== "CONTENU DE SÉANCE"
-
-    - Synthèse de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
-
-    - **Expérimenter** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et le **transmettre** par [mail].
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
 
     - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
 
@@ -426,34 +418,36 @@
 
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+    
+
+
+***
+     - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
+
+-->
+## Les 18 et 19/10 : (1h + 2h)
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** l'étude expérimentale de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
+
+    - Synthèse de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
+    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
+
+
 === "TRAVAIL À FAIRE"
     
-    - **Poursuivre** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et le **transmettre** par [mail].
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-    - Se préparer pour une ==évaluation sur les fonctions logiques pour le 21/10== en faisant les exercices d'entrainement supplémentaires :
+    - Se préparer pour une ==évaluation sur les fonctions logiques pour le 20/10== en faisant les exercices d'entrainement supplémentaires :
         - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
         - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
         - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
         - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
 
+    - **Poursuivre** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
+
 ***
-
-## Le 12/10 : (2h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Poursuite de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Poursuivre** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et le **transmettre** par [mail].
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-***
-     - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
-
--->
 ## Le 11/10 : (1h)
 
 === "CONTENU DE SÉANCE"
