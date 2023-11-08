@@ -424,12 +424,75 @@
 ***
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
+
+
+
+
+
+## Les 09 et 10/11 (2h + 1h)
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** l'étude expérimentale de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] votre document.
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
+
+    - Synthèse finale de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
+    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
+
+    - Synthèse partielle du Parcours_1 de la programmation en Python de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre**  les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+
+    - **Finir** le Parcours_1 de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et ==se préparer pour une évaluation sur la programmation en Python des IOT== ;
+    
+    - **Compléter** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et le **transmettre** par [mail]. [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+
+
 -->
+
+***
+## Le 08/11 (1h)
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des évaluations SYSML, [numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){target="_blank"} et fonctions logiques de la chaine d'information ;
+
+    - Synthèse partielle du Parcours_1 de la programmation en Python de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir**  les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+
+    - **Finir** le Parcours_1 de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et ==se préparer pour une évaluation sur la programmation en Python des IOT== ;
+    
+    - **Compléter** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et le **transmettre** par [mail]. [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+
+
+***
+## Le 20/10 (1h)
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur les fonctions logiques de la chaine d'information ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+    
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et **transmettre** par [mail] un lien pointant vers votre document... [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+***
+
 ## Les 18 et 19/10 : (1h + 2h)
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** l'étude expérimentale de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
+    - **Poursuivre** l'étude expérimentale de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
 
     - Synthèse de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
