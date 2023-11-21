@@ -412,22 +412,26 @@
 ***
 
 
-    - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
     
 
 
 ***
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
-
-
 -->
+## Le 22/11
 
+=== "CONTENU DE SÉANCE"
+
+    - **Lire** le [cours sur les différentes formes d'énergie](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank}  et **faire** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** tous les travaux restant en souffrances ;
+    - **Finir** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+    - **Rechercher** qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? => ==**Produire** une `note.md` au format MarkDown et **partager** par [mail] un lien pointant vers ce document== ;
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; et des extensions  ;
 
 ## Les 09 et 10/11 (2h + 1h)
 
