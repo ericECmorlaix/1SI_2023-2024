@@ -364,45 +364,19 @@
     - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
     - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank}
 
-***
-## Le 17/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction de l'[exercice 7](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} -> ==Réaliser le schéma avec Escalidraw dans Obsidian== ;
-
-=== "TRAVAIL À FAIRE"
-
-    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
-    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
-
-***
-## Le 16/11
 
 
 
-=== "TRAVAIL À FAIRE"
 
-    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - Finir les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
-    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
 
-***
-## Les 09 et 10/11
 
-=== "CONTENU DE SÉANCE"
-
-    - Synthèse et correction des exercices du TAF :
-        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
         - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} (+ présentation tableau de [Karnaugh](https://www.positron-libre.com/cours/electronique/logique-combinatoire/tableau-karnaugh/tableau-karnaugh.php){target=_blank});
-        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
-        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
-    - Evaluation sur les fonctions logiques de la chaine d'information ;
-    - Présentation d'un [tutoriel pour l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==Avec l'aide de ShortCut d'automatisation [Capter idée](https://www.icloud.com/shortcuts/40a6686913734aaca605dc1081791336) et [Partager Média](https://www.icloud.com/shortcuts/6285c561258343bfb06b6b58a1956258) collecter des données sur une note du jour dans votre coffre d'Obsidian localisé sur votre iPad== ;
+
+   
 
 === "TRAVAIL À FAIRE"
 
-    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
+    
     
     - **Finir** l'expérimentation des [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} : ==**Convertir** le `notebook.ipynb` de Carnets complété en `note.md` d'Obsidian et   les **transmettre** par [mail]==.
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
@@ -417,7 +391,28 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
-## Les 22, 23 et 24/11
+***
+
+## Les 06, 07 et 08/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'évaluation sur la programmation en Python des IOT du 23/11 ;
+    - **Finir** les schémas des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} réalisés avec Escalidraw ;
+    - **Finir** votre note littéraire au format MarkDown `note.md` concernant Jean-Marc JANCOVICI ;
+    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
+
+    - **Lire** le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} puis **faire** les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank}, en vous aidant si besoin du [document ressources présentant l'énergie contenue dans les batteries](./CP/Les_principales_puissances-Document_ressources.pdf){target=_blank} ;
+
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+    
+***
+
+## Du 22/11 au 01/12
 
 === "CONTENU DE SÉANCE"
 
@@ -432,6 +427,7 @@
     - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
     - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; et des extensions  ;
 
+***
 ## Les 09 et 10/11 (2h + 1h)
 
 === "CONTENU DE SÉANCE"
