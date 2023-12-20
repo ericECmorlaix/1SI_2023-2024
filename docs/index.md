@@ -14,7 +14,8 @@
 
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
-[notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
+
+[notebook jupyter]: https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/
 
 ***
 <!-- 
@@ -398,12 +399,13 @@
 
     - **Finaliser** tous les travaux engagés ;
     - **Poursuivre** l'apprentissage du cours et **se préparer** pour une évaluation programmée le 21/12 sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
-    - **Prendre** en main Onshape pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+    - **Prendre** en main Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
 
 
 
 === "TRAVAIL À FAIRE"
     
+    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
     - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
     - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
         

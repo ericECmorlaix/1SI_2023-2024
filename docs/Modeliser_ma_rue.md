@@ -206,6 +206,17 @@ Et avec l'aide des vidéos de Ms. DANZI suivantes :
       <figcaption>Creating a Lego brick in Onshape - iPad</figcaption>
     </figure>
 
+=== "Tutorial 4"
+    <figure>      
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=rDmC4DLVw62zQJ62&amp;list=PLAgASl8KwetD3AoQfEPmhxIm8NfKE6Mw5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <figcaption>Une chaine de York High School Industrial Tech sur Onshape</figcaption>
+    </figure>
+
+=== "Tutorial 5"
+    <figure>      
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/3rtE_YKx_Rg?si=HgwnGz-Y3UNOjR5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <figcaption>How to Create Your Own 3D Lego Man Using Onshape!</figcaption>
+    </figure>
 
 - Réaliser sur OnShape le modèle d'une des briques de LEGO Classic de base utile pour la réalisation du projet "modéliser ma rue" ;
 
