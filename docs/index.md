@@ -393,6 +393,34 @@
 
 -->
 ***
+## Les 17, 18 et 19/01
+
+=== "CONTENU DE SÉANCE"
+
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 0, réalisation du sprint 1 ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** tous les travaux engagés ;
+    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'un assemblage de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
+***
+## Les 10, 11 et 12/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **Prendre** en main Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** tous les travaux engagés ;
+    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
+***
 ## Les 20, 21 et 22/12
 
 === "CONTENU DE SÉANCE"
