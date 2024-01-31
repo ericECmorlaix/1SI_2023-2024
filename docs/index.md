@@ -393,6 +393,20 @@
 
 -->
 ***
+## Le 31/01
+
+=== "CONTENU DE SÉANCE"
+
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective orale du sprint 1 ;
+    - Présentation d'une piste de projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** tous les travaux engagés ;
+    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'un assemblage de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+***
 ## Les 17, 18 et 19/01
 
 === "CONTENU DE SÉANCE"
