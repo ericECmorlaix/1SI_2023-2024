@@ -399,6 +399,10 @@
 
     - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective orale du sprint 1 ;
     - Présentation d'une piste de projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+    
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
 
 === "TRAVAIL À FAIRE"
     
