@@ -393,6 +393,26 @@
 
 -->
 ***
+## Le 01/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+    
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+    - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ;
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** tous les travaux engagés ;
+    
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+***
 ## Le 31/01
 
 === "CONTENU DE SÉANCE"
