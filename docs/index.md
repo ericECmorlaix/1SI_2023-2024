@@ -393,19 +393,21 @@
 
 -->
 ***
-## Le 01/02
+## Les 01 et 02/02
 
 === "CONTENU DE SÉANCE"
 
     - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
     
-    <center>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>
+        - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ; [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
 
-    - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ;
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...
 
+        <center>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </center>
+
+    
 === "TRAVAIL À FAIRE"
     
     - **Rendre** tous les travaux engagés ;
