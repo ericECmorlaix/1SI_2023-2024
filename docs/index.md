@@ -392,8 +392,25 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
+## Du 09/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+    
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur des [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...
+
+    - **Lire** [Circuits_Electriques-Introduction.pdf](./EL/Circuits_Electriques-Introduction.pdf){target=_blank}  et **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
+     
+=== "TRAVAIL À FAIRE"
+
+    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
+    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+
+
 ***
-## Les 01 et 02/02
+## Du 01 au 08/02
 
 === "CONTENU DE SÉANCE"
 
@@ -401,11 +418,7 @@
     
         - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ; [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
 
-        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...
-
-        <center>
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </center>
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...        
 
     
 === "TRAVAIL À FAIRE"
