@@ -392,6 +392,27 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
+
+## Les 21 et 22/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'évaluation Energie, Puissance et rendement ;
+
+    - Correction des exercices du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
+    
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+    
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
+
+    
+     
+=== "TRAVAIL À FAIRE"
+
+    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
+    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+***
 ## Du 09/02
 
 === "CONTENU DE SÉANCE"
