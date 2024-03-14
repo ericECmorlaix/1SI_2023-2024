@@ -284,7 +284,7 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
     Une sortie logique permet de commander son sens de rotation qui dépend de la polarité de son alimentation.
 
     ```python
-    pin8.write_digital(sens) # sens = 1 => avance, sens = 0 => recule
+    pin8.write_digital(sens) # sens = 0 => avance, sens = 1 => recule
     ```
 
     ??? tip "Pont en H : ..."
@@ -309,10 +309,14 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
         def avance(vitesse, duree) :
             pin0.write_analog(vitesse)
-            pin8.write_digital(1)
+            pin8.write_digital(0)
             sleep(duree)
 
-        avance(511, 1000)
+        avance(23, 1000)    
+        avance(223,1000)
+        avance(423, 1000)
+        avance(623, 1000)
+        avance(823, 1000)
         avance(1023, 1000)
         avance(0, 1)
         ```
@@ -326,6 +330,8 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
         
         ```
+    !!! tip "On observe qu'en reculant, `pin0.write_analog(0)` produit la plus grande vitesse"
+       
 
 ??? example "Application : piloter deux moteurs"
 
@@ -350,6 +356,51 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
         
         ```
+??? question "Que fait le programme ci-dessous ? L'expliquer en complétant les commentaires ..."
+
+    ```Python
+    from microbit import *
+
+    # ...
+    def piloter(gaughe,droite) :
+        # ...
+        pin8.write_digital(0)
+        pin12.write_digital(0)
+        # ...
+        if gauche < 0 :
+            pin8.write_digital(1)
+            gauche = 1023 + gauche
+        # ...
+        if droite < 0 :
+            pin12.write_digital(1)
+            droite = 1023 + droite
+        # ...
+        pin0.write_analog(gauche)
+        pin1.write_analog(droite)
+        
+    while True:
+        # ... 
+        pilote(800,800)
+        sleep(1000)
+        # ...
+        pilote(0,0)
+        sleep(1000)
+        # ...
+        pilote(-800,-800)
+        sleep(1000)
+        # ... 
+        pilote(0,0)
+        sleep(1000)
+        # ...
+        pilote(400,800)
+        sleep(1000)
+        # ...
+        pilote(0,0)
+        sleep(1000)
+        # ...
+        pilote(800,0)
+        sleep(1000)
+    ```
 
 
 ### Entrée logique
@@ -463,6 +514,9 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
 
 ### Interface Homme Machine
+
+Une IHM permet à l'utilisateur d'interagir avec le système. Ainsi, la carte BBC, peut, par exemple, recevoir des consignes via les boutons poussoirs A et B et communiquer des informations en les affichant sur la matrice de 25 LEDs...
+
 
 
 
