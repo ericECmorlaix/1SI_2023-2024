@@ -392,6 +392,29 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
+## Le 15 et 16/03
+
+=== "CONTENU DE SÉANCE"
+    
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+    
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+***
+
+## Le 14/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'évaluation sur les lois électriques ;        
+     
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2023-2024/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+***
 
 ## Les 21 et 22/02
 

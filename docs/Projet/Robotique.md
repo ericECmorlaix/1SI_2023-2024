@@ -511,21 +511,182 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
         
         ```
 
-
-
 ### Interface Homme Machine
 
-Une IHM permet à l'utilisateur d'interagir avec le système. Ainsi, la carte BBC, peut, par exemple, recevoir des consignes via les boutons poussoirs A et B et communiquer des informations en les affichant sur la matrice de 25 LEDs...
+Une [IHM](https://fr.wikipedia.org/wiki/Interactions_homme-machine){target=_blank} permet à l'utilisateur d'interagir avec un système.
+
+#### Carte BBC micro:bit
+
+Ainsi, la carte BBC, peut, par exemple, recevoir des consignes via les boutons poussoirs A et B et communiquer des informations en les affichant sur la matrice de 25 LEDs...
+
+??? example "Application : diriger un robot roulant"
+
+    **Enficher** une carte BBC micro:bit dans un [Bit:Bot](https://4tronix.co.uk/blog/?p=2317){target=_blank} ou un [Robot:Bit MK3](https://4tronix.co.uk/blog/?p=1832){target=_blank} afin de **programmer** le robot pour qu'il avance en tournant à gauche si l'on appuie sur le bouton A, qu'il avance en tournant à droite si l'on appuie sur le bouton B, qu'il avance tout droit si l'on appuie à la fois sur les boutons A et B.
+
+    ??? tip "Logique booléenne ..."        
+
+#### Manette
+
+Les extensions [Joystick_bit](https://www.elecfreaks.com/learn-en/microbitExtensionModule/joystick_bit_v1.html?highlight=python%20programming){target=_blank} comme [Bit:Commander](https://4tronix.co.uk/blog/?p=1734){target=_blank} permettent de recevoir une carte BBC micro:bit pour étendre ses fonctionnalitées d'IHM.
+<!-- 
+??? question "Que fait le programme ci-dessous ? L'expliquer en complétant les commentaires ..."
+
+    ```Python
+    from microbit import *
+    import music
+    import neopixel
+
+    # ...
+    npix = neopixel.NeoPixel(pin13, 6)
+
+    # ... 
+    red = (64,0,0)
+    green = (0,64,0)
+    blue = (0,0,64)
+    nocol = (0,0,0)
+
+    # ... 
+    def light_all(col):
+        for pix in range(0, len(npix)):
+            npix[pix] = col
+        npix.show()
+
+    # ...  
+    def wipe(col, delay):
+        for pix in range(0, len(npix)):
+            npix[pix] = col
+            npix.show()
+            sleep(delay)
+    
+    # ...
+    def read_joy():
+        return pin1.read_analog(), pin2.read_analog(), pin8.read_digital()
+    
+    # ...
+    def read_buttons():
+        # red, blue, green, yellow
+        btns = [pin12,pin15,pin14,pin16]
+        return [p.read_digital() for p in btns]
+
+    # ...
+    def read_pot():    
+        return pin0.read_analog()
+
+    # ...
+    def play_tune():
+        music.play(music.BADDY)
+        pin0.read_digital()
+    
+    
+    # ...    
+    light_all(red)
+
+    # ...
+    play_tune()
+    
+    # ...
+    wipe(blue,250)
 
 
-
+    # ...
+    while True:
+        x,y,j = read_joy()
+        btns = read_buttons()
+        p = read_pot()
+        print(x,y, j, btns, p) # Où peut-on visualiser cet affichage ?
+        sleep(20)
+    ``` -->
 
 ### Communication avec BBC micro:bit
 
+Lorsqu'elle est programmée en MicroPython, la carte BBC micro:bit permet d'établir une communication filaire ou sans fil...
 
 ## Projet de robot
+<!-- 
+??? question "Que font les deux programmes ci-dessous ? L'expliquer en complétant les commentaires ..."
+
+    ```Python
+    # Bit:bot controller. Simple modification of existing script for sending.
+
+    from microbit import *
+    import radio
+
+    chnl = 10
+    radio.config(channel=chnl)
+    radio.on()
 
 
+    while True:
+        a = pin12.read_digital()
+        b = pin14.read_digital()
+        dx = pin1.read_analog()    
+        if  a and dx<150:
+            # forwards left
+            display.show(Image.ARROW_NW)
+            radio.send("NW")
+        elif a and dx>850:
+            # forwards right
+            display.show(Image.ARROW_NE)
+            radio.send("NE")
+        elif b and dx<150:
+            # backwards left
+            display.show(Image.ARROW_SW)
+            radio.send("SW")
+        elif b and dx>850:
+            # backwards right
+            display.show(Image.ARROW_SE)
+            radio.send("SE")
+        elif b:
+            #backwards
+            display.show(Image.ARROW_S)
+            radio.send("S")
+        elif a:
+            # forwards
+            display.show(Image.ARROW_N)
+            radio.send("N")
+        sleep(20)
+    ```
+
+    ```Python
+    from microbit import *
+    import radio
+
+    chnl = 10
+    radio.config(channel=chnl)
+    radio.on()
+
+    def Drive(lft,rgt):
+        pin8.write_digital(0)
+        pin12.write_digital(0)
+        if lft<0:
+            pin8.write_digital(1)
+            lft = 1023 + lft
+        if rgt<0:
+            rgt = 1023 + rgt
+            pin12.write_digital(1)
+        pin0.write_analog(lft)
+        pin1.write_analog(rgt)
+
+    while True:
+        s = radio.receive()
+        if s is not None:
+            if s=="N":
+                Drive(800,800)
+            elif s=="S":
+                Drive(-800,-800)
+            elif s=="NE":
+                Drive(800,200)
+            elif s=="NW":
+                Drive(200,800)
+            elif s=="SE":
+                Drive(-800,-200)
+            elif s== "SW":
+                Drive(-200,-800)
+        else:
+            Drive(0,0)
+        sleep(20)
+    ```
+ -->
 
 
 ## Ressources :
