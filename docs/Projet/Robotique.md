@@ -528,167 +528,313 @@ Ainsi, la carte BBC, peut, par exemple, recevoir des consignes via les boutons p
 #### Manette
 
 Les extensions [Joystick_bit](https://www.elecfreaks.com/learn-en/microbitExtensionModule/joystick_bit_v1.html?highlight=python%20programming){target=_blank} comme [Bit:Commander](https://4tronix.co.uk/blog/?p=1734){target=_blank} permettent de recevoir une carte BBC micro:bit pour étendre ses fonctionnalitées d'IHM.
-<!-- 
+
 ??? question "Que fait le programme ci-dessous ? L'expliquer en complétant les commentaires ..."
 
     ```Python
+    # ...
     from microbit import *
     import music
     import neopixel
 
     # ...
-    npix = neopixel.NeoPixel(pin13, 6)
+    leds_colorees = neopixel.NeoPixel(pin13, 6)
 
     # ... 
-    red = (64,0,0)
-    green = (0,64,0)
-    blue = (0,0,64)
-    nocol = (0,0,0)
+    rouge = (64,0,0)
+    vert = (0,64,0)
+    bleu = (0,0,64)
+    noir = (0,0,0)
 
     # ... 
-    def light_all(col):
-        for pix in range(0, len(npix)):
-            npix[pix] = col
-        npix.show()
+    def allumer_toutes(couleur):
+        for led in range(0, len(leds_colorees)):
+            leds_colorees[led] = couleur
+        leds_colorees.show()
 
     # ...  
-    def wipe(col, delay):
-        for pix in range(0, len(npix)):
-            npix[pix] = col
-            npix.show()
-            sleep(delay)
-    
-    # ...
-    def read_joy():
-        return pin1.read_analog(), pin2.read_analog(), pin8.read_digital()
-    
-    # ...
-    def read_buttons():
-        # red, blue, green, yellow
-        btns = [pin12,pin15,pin14,pin16]
-        return [p.read_digital() for p in btns]
+    def balayer(couleur, duree):
+        for led in range(0, len(leds_colorees)):
+            leds_colorees[led] = couleur
+            leds_colorees.show()
+            sleep(duree)
 
     # ...
-    def read_pot():    
+    def lire_joystick():
+        return pin1.read_analog(), pin2.read_analog(), pin8.read_digital()
+
+    # ...
+    def lire_pad():
+        # rouge, bleu, vert, jaune
+        broches_pad = [pin12,pin15,pin14,pin16]
+        return [broche.read_digital() for broche in broches_pad]
+
+    # ...
+    def lire_potentiometre():    
         return pin0.read_analog()
 
     # ...
     def play_tune():
         music.play(music.BADDY)
         pin0.read_digital()
-    
-    
+
     # ...    
-    light_all(red)
+    allumer_toutes(rouge)
 
     # ...
     play_tune()
-    
-    # ...
-    wipe(blue,250)
 
+    # ...
+    balayer(bleu,250)
 
     # ...
     while True:
-        x,y,j = read_joy()
-        btns = read_buttons()
-        p = read_pot()
-        print(x,y, j, btns, p) # Où peut-on visualiser cet affichage ?
+        x,y,j = lire_joystick()
+        boutons = lire_pad()
+        potentiel = lire_potentiometre()
+        print(x,y, j, boutons, potentiel) # Où peut-on visualiser cet affichage ?
         sleep(20)
-    ``` -->
+    ```
 
 ### Communication avec BBC micro:bit
 
-Lorsqu'elle est programmée en MicroPython, la carte BBC micro:bit permet d'établir une communication filaire ou sans fil...
+Lorsqu'elle est programmée en MicroPython, la carte BBC micro:bit permet d'établir une communication filaire avec, par exemple, un PC via un moniteur série (application Putty) ou une console REPL (éditeur Mu).
+
+Mais il est également possible d'établir une communication sans fil entre deux cartes BBC micro:bit avec le module `radio` de MicroPython.
 
 ## Projet de robot
-<!-- 
+
 ??? question "Que font les deux programmes ci-dessous ? L'expliquer en complétant les commentaires ..."
 
     ```Python
-    # Bit:bot controller. Simple modification of existing script for sending.
+    # Bit:Commander # ...
 
+    # ...
     from microbit import *
     import radio
 
-    chnl = 10
-    radio.config(channel=chnl)
+    # ...
+    canal = 10
+    radio.config(channel=canal)
     radio.on()
 
-
+    # ...
     while True:
-        a = pin12.read_digital()
-        b = pin14.read_digital()
+        av = pin12.read_digital()
+        ar = pin14.read_digital()
         dx = pin1.read_analog()    
-        if  a and dx<150:
-            # forwards left
+        if  av and dx < 150:
+            # ...
             display.show(Image.ARROW_NW)
-            radio.send("NW")
-        elif a and dx>850:
-            # forwards right
+            radio.send("NO")
+        elif av and dx>850:
+            # ...
             display.show(Image.ARROW_NE)
             radio.send("NE")
-        elif b and dx<150:
-            # backwards left
+        elif ar and dx<150:
+            # ... 
             display.show(Image.ARROW_SW)
-            radio.send("SW")
-        elif b and dx>850:
-            # backwards right
+            radio.send("SO")
+        elif ar and dx>850:
+            # ... 
             display.show(Image.ARROW_SE)
             radio.send("SE")
-        elif b:
-            #backwards
+        elif ar:
+            # ...
             display.show(Image.ARROW_S)
             radio.send("S")
-        elif a:
-            # forwards
+        elif av:
+            # ...
             display.show(Image.ARROW_N)
             radio.send("N")
         sleep(20)
     ```
 
     ```Python
+    # Bit:Bot ou Robo:Bit MK3 # ...
+
+    # ...
     from microbit import *
     import radio
 
-    chnl = 10
-    radio.config(channel=chnl)
+    # ...
+    canal = 10
+    radio.config(channel=canal)
     radio.on()
 
-    def Drive(lft,rgt):
+    # ...
+    def piloter(gauche,droite):
         pin8.write_digital(0)
         pin12.write_digital(0)
-        if lft<0:
+        if gauche<0:
             pin8.write_digital(1)
-            lft = 1023 + lft
-        if rgt<0:
-            rgt = 1023 + rgt
+            gauche = 1023 + gauche
+        if droite<0:
+            droite = 1023 + droite
             pin12.write_digital(1)
-        pin0.write_analog(lft)
-        pin1.write_analog(rgt)
+        pin0.write_analog(gauche)
+        pin1.write_analog(droite)
 
+    # ...
     while True:
-        s = radio.receive()
-        if s is not None:
-            if s=="N":
-                Drive(800,800)
-            elif s=="S":
-                Drive(-800,-800)
-            elif s=="NE":
-                Drive(800,200)
-            elif s=="NW":
-                Drive(200,800)
-            elif s=="SE":
-                Drive(-800,-200)
-            elif s== "SW":
-                Drive(-200,-800)
+        # ...
+        message = radio.receive()
+        
+        # ...
+        if message is not None :
+            if message == "N" :
+                piloter(800,800)
+            elif message == "S" :
+                piloter(-800,-800)
+            elif message  == "NE" :
+                piloter(800,200)
+            elif message == "NO" :
+                piloter(200,800)
+            elif message == "SE" :
+                piloter(-800,-200)
+            elif message == "SO" :
+                piloter(-200,-800)
+        # ...
         else:
-            Drive(0,0)
+            piloter(0,0)
         sleep(20)
     ```
- -->
+
 
 
 ## Ressources :
 
 - [Quelques bases d'électronique associées aux microcontroleurs](https://www.framboiseetcompagnie.fr/category/electronique/){target=_blank}
+
+
+
+<!-- 
+
+https://nsirennes.fr/os-archi/bbc-microbit/
+
+
+
+CARTE JOYSTICK:BIT
+
+Joystick:bit v2.0 de ELECTROFREAKS
+pin2 : pin2.read_analog() détecte le bouton pressé
+buttons = {2: "A", 517: "B", 686: "C", 769: "D", 853: "E", 820: "F", 1021 : "aucun"}
+pin0 et pin1 donnent la position du joystick :
+pin0.read_analog() sur X : 3~1021 et Xcentre = 529
+pin1.read_analog() sur Y : 3~1021 et Ycentre = 506
+/!\ Ces valeurs sont approximatives car elles varient d’une carte Joystick:bit à l’autre !
+
+Tester la Joystick:bit
+
+Les coordonnées du joystick
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+from microbit import *
+import radio
+#######################################
+# TEST : JOYSTICK:BIT
+while True:
+    press = pin2.read_analog()
+    print("bouton : "+ str(press))
+    X = pin0.read_analog()
+    Y = pin1.read_analog()
+    print("joystick : "+str(X)+" , "+str(Y))
+    sleep(100)
+Emetteur radio (carte Joystick:bit)
+
+from microbit import *
+import radio
+ 
+#######################################
+# JOYSTICK:BIT
+def button_press():
+    press = pin2.read_analog()
+    if press > 938:  # le plus fréquent car aucun bouton : press=1021
+        return ""
+    elif press < 256:
+        return "A"
+    elif press < 597:
+        return "B"
+    elif press < 725:
+        return "C"
+    elif press < 793:
+        return "D"
+    elif press < 836:
+        return "F"
+    else:
+        return "E"
+ 
+def joystick_push():
+    # Par défaut : x = 529 (3~1021)   y = 506 (3~1022)
+    # map (1~1023) to (-1022~1022)
+    x = 2 * pin0.read_analog() - 1024
+    y = 2 * pin1.read_analog() - 1024
+    if -100 < x < 100:
+        x = 0
+    if -100 < y < 100:
+        y = 0
+    return x, y
+ 
+ 
+radio.config(channel=7, group=0, queue=1, power=7)
+radio.on()
+while True:
+    X, Y = joystick_push()       
+    message = str(X) + "|" + str(Y) + "|" + button_press()
+    radio.send(message)      # ex : "-700|400|"
+Récepteur radio (carte motor:bit)
+
+from microbit import *
+import radio
+ 
+###################################
+# MOTOR:BIT   M1=gauche   M2=droite
+ 
+def drive(vitesseX, vitesseY): # vitesse : -1023 ~ 1023
+    if vitesseX < 0:
+        vitesseX = - vitesseX
+        pin8.write_digital(0)  # direction M1
+    else:
+        pin8.write_digital(1)  # direction M1
+ 
+    if vitesseY < 0:
+        vitesseY = - vitesseY
+        pin12.write_digital(1)  # direction M2
+    else:
+        pin12.write_digital(0)  # direction M2
+ 
+    if vitesseX > 900:
+        vitesseX = 900
+    if vitesseY > 900:
+        vitesseY = 900
+    pin1.write_analog(vitesseX) # vitesse M1
+    pin2.write_analog(vitesseY) # vitesse M2
+ 
+ 
+radio.config(channel=7, group=0, queue=1, power=7)
+radio.on()
+ancien_bouton = ""
+while True:
+    msg_recu = radio.receive()
+    if msg_recu is not None:
+        [joystickX, joystickY, bouton] = msg_recu.split("|")
+         
+        # moteur
+        joystickX = int(joystickX)
+        joystickY = int(joystickY)
+        drive(joystickY + joystickX//3 , joystickY - joystickX//3)
+         
+        # bouton
+        # /!\ redondances car un appui bref de btn A donne "A" "A" "A" "A"
+        if bouton != ancien_bouton:
+            # faire qqch
+        ancien_bouton = bouton -->
