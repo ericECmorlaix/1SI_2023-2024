@@ -392,6 +392,35 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
+
+## Les 27 et 28/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Projet : [le challenge robotique Brestois est programmé le 15 mai](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+    - Modélisation cinématique des mécanismes :
+        - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
+        - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
+
+    - **Lire** le cours et **faire** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+
+***
+## Le 22/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse du [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons.pdf){target=_blank} et des assemblages équivalents sur OneShape [Liaisons_Complet](https://cad.onshape.com/documents/1982af944ddb00c206b97fd0/w/3c5af1718bffce6303b4aa9b/e/d7b31fab5f11622c6ca5f655?renderMode=0&uiState=61e57fcb1e79c93d00f48bdf){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+
 ## Les 20 et 21/03
 
 === "CONTENU DE SÉANCE"
