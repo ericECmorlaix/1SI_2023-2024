@@ -392,7 +392,34 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
+## Les 16 et 17/05
 
+=== "CONTENU DE SÉANCE"
+
+    - TD Cinématique Ouvre Porte Basculante :
+        - [Figure](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteFigure.pdf){target=_blank} 
+        - [Questions](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf){target=_blank}
+        - [Modèle Onshape](https://cad.onshape.com/documents/6a6416ba4d7a24fd56430c53/w/e2b55095d2588d686a0c1ac8/e/5176f6e2731841f719749df9){target=_blank}
+        - [Notice Sprint 550S](./SC/OuvrePorteBasculante/pdf/NoticeSprint550S.pdf){target=_blank}     
+
+=== "TRAVAIL À FAIRE"
+
+    - Application au [vélo elliptique](./SU/Velo_elliptique_A.pdf) : ==**Faire** la 1^ère partie pour le 22/05==
+
+***
+
+## Le 15/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Projet : [le challenge robotique Brestois est programmé ce 15 mai aux Ateliers de Capucins à Brest durant les Olympiades de Sciences de l'Ingénieur ](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+        
+
+=== "TRAVAIL À FAIRE"
+
+    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+
+***
 ## Les 27 et 28/03
 
 === "CONTENU DE SÉANCE"
