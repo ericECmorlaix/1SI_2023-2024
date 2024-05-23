@@ -392,6 +392,21 @@
      - Correction de l'évaluation en analyse fonctionnelle SYSML + [numération et codage de l'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb) [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Correction_Evaluation_Numeration.ipynb){ .md-button .md-button--primary } ;
 
 -->
+***
+
+## Le 24/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}     
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}
+
+***
+
+
 ## Les 16 et 17/05
 
 === "CONTENU DE SÉANCE"
