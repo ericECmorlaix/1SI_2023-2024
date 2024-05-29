@@ -394,15 +394,17 @@
 -->
 ***
 
-## Le 24/05
+## les 24, 29 et 30/05
 
 === "CONTENU DE SÉANCE"
 
-    - **Découvrir** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}     
+    - **Découvrir** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}
+
+    - **Appliquer** à l'étude statique du [Cozmo](./AM/AM_Cozmo.pdf){target=_blank} ;     
 
 === "TRAVAIL À FAIRE"
 
-    - **Poursuivre** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}
+    - **Poursuivre** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} : -> ==**Se préparer** pour évaluation à ce sujet le 31/05==
 
 ***
 
